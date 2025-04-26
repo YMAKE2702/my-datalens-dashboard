@@ -5,7 +5,7 @@
 Дашборд "Финансовые показатели" создан в Yandex DataLens.
 
 ## Скриншот
-![Скриншот дашборда](./dash_datalens.png)
+![Скриншот дашборда](./dash_datalens.JPG)
 
 ## Ссылка
 [Открыть в DataLens](https://datalens.yandex/elap98evw2xs0)
